@@ -55,7 +55,7 @@ A simulated music store database consisting of:
 ---
 
 ## 📸 Database Schema
-![Database Schema](database%20schema.png)
+![Database Schema](Database.schema.png)
 
 ---
 
