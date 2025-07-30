@@ -55,6 +55,7 @@ A simulated music store database consisting of:
 3. Paste and run each query from the SQL script.
 4. Review output tables in the result grid.
 
+> 💡 Make sure your database matches the structure of the Chinook dataset (tables like `customer`, `invoice`, `track`, `artist`, etc.)
 ---
 
 ## 📸 Database Schema
