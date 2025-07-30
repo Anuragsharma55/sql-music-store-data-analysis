@@ -50,10 +50,10 @@ A simulated music store database consisting of:
 
 ## 🧑‍💻 How to Run This Project
 
-1. Open **SQL Workbench**
-2. Load the database (`Chinook` or similar schema)
-3. Open and run `queries.sql` script
-4. View result sets for each analysis question
+1. Open **SQL Workbench**.
+2. Connect to the database containing the `music` schema.
+3. Paste and run each query from the SQL script.
+4. Review output tables in the result grid.
 
 ---
 
