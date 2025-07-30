@@ -17,14 +17,17 @@ The company is planning to launch a new product and needs **data-driven insights
 ---
 
 ## ❓ Problem Statements
+1. 🧑‍💼 Assigning a project lead — Who is the **senior-most employee** based on job title?
+2. 🌍 Identifying customer base — Which **country has the most invoices**?
+3. 💰 Revenue focus — What are the **top 3 highest invoices**?
+4. 🎉 Marketing opportunity — Which **city generated the most revenue**?
+5. 🥇 Top spender — Who is the **best customer** based on total spending?
+6. 🎸 Music preference — Which customers listen to **Rock music**?
+7. 🤘 Artist collaboration — Which artists have **written the most Rock songs**?
+8. 🌎 Genre trends — What is the **most popular genre by country**?
+9. 🎁 Customer rewards — Which customer has **spent the most per country**?
+10. 💵 Artist revenue — How much **each customer spent on each artist**?
 
-1. **Who is the senior-most employee?**  
-2. **Which country has the highest number of invoices?**  
-3. **Who are the top 3 customers by invoice value?**  
-4. **How much has each customer spent on each artist?**  
-5. **Which is the most popular genre by purchase count?**  
-6. **Which city has the highest total invoice amount?**  
-7. **Identify top 10 tracks with highest revenue.**  
 
 ---
 
