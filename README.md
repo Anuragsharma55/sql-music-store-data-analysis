@@ -40,11 +40,23 @@ A simulated music store database consisting of:
 ---
 
 ## 🔍 Key Insights
+🇺🇸 USA leads in customer activity, having the highest number of invoices, indicating it as the strongest market for the music store.
 
-- The USA has the highest number of invoices.
-- Prague and Paris are top in revenue-generating cities.
-- Rock is the most purchased genre.
-- Each customer's top artist and spending can be extracted with analytical queries.
+🌆 Prague and Paris generate the highest total invoice amounts, making them the top-performing cities in terms of revenue.
+
+🧑‍💼 The senior-most employee has been identified, which is useful for understanding the company’s organizational structure.
+
+💸 The top 3 customers contribute significantly to overall revenue, suggesting the value of customer segmentation and loyalty programs.
+
+🎸 Rock is the most popular genre by purchase count, making it a key focus for future product offerings and promotions.
+
+🎵 The top 10 tracks account for the majority of revenue, helping in identifying high-performing content.
+
+🎨 Customers show distinct preferences for specific artists, and spending patterns per artist can inform personalized marketing.
+
+📊 Sales distribution by genre and invoice totals by country provide useful visual insights for strategic regional planning.
+
+💰 Artist revenue is unevenly distributed, pointing toward a small set of artists driving most of the sales..
 
 ---
 
