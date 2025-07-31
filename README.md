@@ -78,7 +78,7 @@ A simulated music store database consisting of:
 ## 🖼️ Screenshots / Visuals
 
 ### 1. Senior Most Employee
-![Senior Most Employee]Screenshot 2025-07-30 022631.png
+![Senior Most Employee] (Screenshot 2025-07-30 022631.png)
 
 ### 2. Country with Most Invoices
 ![Country with Most Invoices](Screenshots)
