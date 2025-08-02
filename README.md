@@ -102,7 +102,7 @@ A simulated music store database consisting of:
 ![Genre Distribution](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/96b4a3483f597398b92e0c8248af40807877229e/Screenshot%202025-07-30%20023157.png)
 
 ### 9. Invoice Value by Country
-![Invoice by Country](screenshots/Screenshot 2025-07-30 023157.png)
+![Invoice by Country](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/e160d91a82cbe1fc974bece37c7d327dc4164a2d/Screenshot%202025-07-30%20040841.png)
 
 ### 10. Artist Revenue Summary
 ![Artist Revenue](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/c856180d3dd4a3af6b075617f695efeded4143b5/Screenshot%202025-07-30%20023226.png)
