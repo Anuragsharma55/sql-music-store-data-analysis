@@ -87,7 +87,7 @@ A simulated music store database consisting of:
 ![Top Customers](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/3269b332e124a70c379c91abb895b5eae14ba388/Screenshot%202025-07-30%20022818.png)
 
 ### 4. Customer Spending per Artist
-![Customer Artist Spend](screenshots/Screenshot 2025-07-30 022929.png)
+![Customer Artist Spend](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/b08aaaa841d6cbb7899143128f6a21e5c9b5f047/Screenshot%202025-07-30%20022929.png)
 
 ### 5. Most Popular Genre by Purchase Count
 ![Popular Genre](screenshots/Screenshot 2025-07-30 022953.png)
