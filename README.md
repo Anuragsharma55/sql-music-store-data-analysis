@@ -86,13 +86,13 @@ A simulated music store database consisting of:
 ### 3. Top 3 Customers by Invoice Value
 ![Top Customers](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/3269b332e124a70c379c91abb895b5eae14ba388/Screenshot%202025-07-30%20022818.png)
 
-### 4. Customer Spending per Artist
+### 4.City with Highest Invoice Value
 ![Customer Artist Spend](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/b08aaaa841d6cbb7899143128f6a21e5c9b5f047/Screenshot%202025-07-30%20022929.png)
 
 ### 5. Most Popular Genre by Purchase Count
 ![Popular Genre](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/a8a9cb954e891d8fb6c80deb879e83185c44a930/Screenshot%202025-07-30%20022953.png)
 
-### 6. City with Highest Invoice Value
+### 6. Customer Spending per Artist
 ![Top City](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/931cf9050a5288335611abf9cc861e330c391296/Screenshot%202025-07-30%20023052.png)
 
 ### 7. Top Revenue Tracks
