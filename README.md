@@ -40,7 +40,7 @@ A simulated music store database consisting of:
 ---
 
 ## 🔍 Key Insights
-🇺🇸 USA leads in customer activity, having the highest number of invoices, indicating it as the strongest market for the music store.
+ **USA leads in customer activity, having the highest number of invoices, indicating it as the strongest market for the music store.
 
 🌆 Prague and Paris generate the highest total invoice amounts, making them the top-performing cities in terms of revenue.
 
