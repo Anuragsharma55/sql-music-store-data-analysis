@@ -93,7 +93,7 @@ A simulated music store database consisting of:
 ![Popular Genre](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/a8a9cb954e891d8fb6c80deb879e83185c44a930/Screenshot%202025-07-30%20022953.png)
 
 ### 6. City with Highest Invoice Value
-![Top City](screenshots/Screenshot 2025-07-30 023014.png)
+![Top City](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/931cf9050a5288335611abf9cc861e330c391296/Screenshot%202025-07-30%20023052.png)
 
 ### 7. Top Revenue Tracks
 ![Top Tracks](screenshots/Screenshot 2025-07-30 023052.png)
