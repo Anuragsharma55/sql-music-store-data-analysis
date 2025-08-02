@@ -105,7 +105,7 @@ A simulated music store database consisting of:
 ![Invoice by Country](screenshots/Screenshot 2025-07-30 023157.png)
 
 ### 10. Artist Revenue Summary
-![Artist Revenue](screenshots/Screenshot 2025-07-30 023226.png)
+![Artist Revenue](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/c856180d3dd4a3af6b075617f695efeded4143b5/Screenshot%202025-07-30%20023226.png)
 
 ---
 
