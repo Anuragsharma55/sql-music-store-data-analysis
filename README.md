@@ -81,7 +81,7 @@ A simulated music store database consisting of:
 ![Senior Most Employee](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/841d06bef14d6a95d3fbe2b6056b2037189e5bf0/Screenshot%202025-07-30%20022631.png)
 
 ### 2. Country with Most Invoices
-![Country with Most Invoices](Screenshots)
+![Country with Most Invoices](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/f8eca43946ed3c44196afbad0a0ee1ea33403594/Screenshot%202025-07-30%20022731.png)
 
 ### 3. Top 3 Customers by Invoice Value
 ![Top Customers](screenshots/Screenshot 2025-07-30 022818.png)
