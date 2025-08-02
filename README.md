@@ -96,7 +96,7 @@ A simulated music store database consisting of:
 ![Top City](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/931cf9050a5288335611abf9cc861e330c391296/Screenshot%202025-07-30%20023052.png)
 
 ### 7. Top Revenue Tracks
-![Top Tracks](f8eca43946ed3c44196afbad0a0ee1ea33403594)
+![Top Tracks](https://github.com/Anuragsharma55/sql-music-store-data-analysis/blob/a20389b6069c9f52855e730bf9a16ef5c09005ec/Screenshot%202025-07-30%20023157.png)
 
 ### 8. Sales Distribution by Genre
 ![Genre Distribution](screenshots/Screenshot 2025-07-30 023125.png)
